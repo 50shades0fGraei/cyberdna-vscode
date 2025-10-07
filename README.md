@@ -1,8 +1,6 @@
+<<<<<<< HEAD
 # cyberdna
-cyberdna is a function , operation and/or process library and indexing system for snippets saved by your libraries. it enables programmers to summon snippets from previously loaded code to help build instead of thumbing through old code          —Cyberdna threads the mythic and the technical in one breath. Now that the repository is live, here’s how we can ritualize the README.md for the Cyberdna function indexing and summoning library:
-
----
-
+cyberdna is a function , operation and/or process library and indexing system for snippets saved by your libraries. it enables programmers to summon snippets from previously loaded code to help build instead of thumbing through old code          —Cyberdna threads the mythic and the technical in one breath. Now that the repository is liv
 🧬 Cyberdna Core Library
 Segment-Based Function Indexing & Invocation Engine  
 Architected by Randall Lujan | Sovereign Stewardship Protocol
