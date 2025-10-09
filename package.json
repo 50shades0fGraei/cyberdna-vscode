@@ -1,0 +1,21 @@
+{
+  "name": "cyberdna",
+  "displayName": "CyberDNA",
+  "description": "Mythic signal engine for sovereign coding rituals",
+  "version": "1.0.0",
+  "publisher": "randall-lujan",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": ["Other"],
+  "activationEvents": ["onCommand:cyberdna.activate"],
+  "main": "./src/router/index.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "cyberdna.activate",
+        "title": "Activate CyberDNA Ritual"
+      }
+    ]
+  }
+}
